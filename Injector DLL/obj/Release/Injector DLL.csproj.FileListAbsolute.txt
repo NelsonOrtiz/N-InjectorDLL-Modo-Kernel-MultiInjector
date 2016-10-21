@@ -1,0 +1,11 @@
+c:\users\amd\documents\visual studio 2015\Projects\Injector DLL\Injector DLL\bin\Release\Injector DLL.exe.config
+c:\users\amd\documents\visual studio 2015\Projects\Injector DLL\Injector DLL\bin\Release\Injector DLL.exe
+c:\users\amd\documents\visual studio 2015\Projects\Injector DLL\Injector DLL\bin\Release\Injector DLL.pdb
+c:\users\amd\documents\visual studio 2015\Projects\Injector DLL\Injector DLL\obj\Release\Injector_DLL.Form1.resources
+c:\users\amd\documents\visual studio 2015\Projects\Injector DLL\Injector DLL\obj\Release\Injector_DLL.Properties.Resources.resources
+c:\users\amd\documents\visual studio 2015\Projects\Injector DLL\Injector DLL\obj\Release\Injector DLL.csproj.GenerateResource.Cache
+c:\users\amd\documents\visual studio 2015\Projects\Injector DLL\Injector DLL\obj\Release\Injector DLL.exe
+c:\users\amd\documents\visual studio 2015\Projects\Injector DLL\Injector DLL\obj\Release\Injector DLL.pdb
+D:\No Borrar (Nelson)\Injector DLL\Injector DLL\bin\Release\Injector DLL.exe.config
+D:\No Borrar (Nelson)\Injector DLL\Injector DLL\obj\Release\Injector DLL.exe
+D:\No Borrar (Nelson)\Injector DLL\Injector DLL\obj\Release\Injector DLL.pdb
