@@ -1,0 +1,10 @@
+C:\Users\AMD\Documents\Visual Studio 2015\Projects\N-InjectorDLL\N-InjectorDLL\bin\Debug\N-InjectorDLL.exe.config
+C:\Users\AMD\Documents\Visual Studio 2015\Projects\N-InjectorDLL\N-InjectorDLL\bin\Debug\N-InjectorDLL.exe
+C:\Users\AMD\Documents\Visual Studio 2015\Projects\N-InjectorDLL\N-InjectorDLL\bin\Debug\N-InjectorDLL.pdb
+C:\Users\AMD\Documents\Visual Studio 2015\Projects\N-InjectorDLL\N-InjectorDLL\bin\Debug\Nini.dll
+C:\Users\AMD\Documents\Visual Studio 2015\Projects\N-InjectorDLL\N-InjectorDLL\bin\Debug\Nini.pdb
+C:\Users\AMD\Documents\Visual Studio 2015\Projects\N-InjectorDLL\N-InjectorDLL\obj\Debug\N_InjectorDLL.Form1.resources
+C:\Users\AMD\Documents\Visual Studio 2015\Projects\N-InjectorDLL\N-InjectorDLL\obj\Debug\N_InjectorDLL.Properties.Resources.resources
+C:\Users\AMD\Documents\Visual Studio 2015\Projects\N-InjectorDLL\N-InjectorDLL\obj\Debug\N-InjectorDLL.csproj.GenerateResource.Cache
+C:\Users\AMD\Documents\Visual Studio 2015\Projects\N-InjectorDLL\N-InjectorDLL\obj\Debug\N-InjectorDLL.exe
+C:\Users\AMD\Documents\Visual Studio 2015\Projects\N-InjectorDLL\N-InjectorDLL\obj\Debug\N-InjectorDLL.pdb

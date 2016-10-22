@@ -1,0 +1,11 @@
+C:\Users\AMD\Documents\Visual Studio 2015\Projects\N-InjectorDLL\N-InjectorDLL\bin\Release\N-InjectorDLL.exe.config
+C:\Users\AMD\Documents\Visual Studio 2015\Projects\N-InjectorDLL\N-InjectorDLL\bin\Release\N-InjectorDLL.exe
+C:\Users\AMD\Documents\Visual Studio 2015\Projects\N-InjectorDLL\N-InjectorDLL\bin\Release\N-InjectorDLL.pdb
+C:\Users\AMD\Documents\Visual Studio 2015\Projects\N-InjectorDLL\N-InjectorDLL\bin\Release\Nini.dll
+C:\Users\AMD\Documents\Visual Studio 2015\Projects\N-InjectorDLL\N-InjectorDLL\bin\Release\Nini.pdb
+C:\Users\AMD\Documents\Visual Studio 2015\Projects\N-InjectorDLL\N-InjectorDLL\obj\Release\N_InjectorDLL.Form1.resources
+C:\Users\AMD\Documents\Visual Studio 2015\Projects\N-InjectorDLL\N-InjectorDLL\obj\Release\N_InjectorDLL.Properties.Resources.resources
+C:\Users\AMD\Documents\Visual Studio 2015\Projects\N-InjectorDLL\N-InjectorDLL\obj\Release\N-InjectorDLL.csproj.GenerateResource.Cache
+C:\Users\AMD\Documents\Visual Studio 2015\Projects\N-InjectorDLL\N-InjectorDLL\obj\Release\N-InjectorDLL.exe
+C:\Users\AMD\Documents\Visual Studio 2015\Projects\N-InjectorDLL\N-InjectorDLL\obj\Release\N-InjectorDLL.pdb
+C:\Users\AMD\Documents\Visual Studio 2015\Projects\N-InjectorDLL\N-InjectorDLL\obj\Release\N-InjectorDLL.csprojResolveAssemblyReference.cache
